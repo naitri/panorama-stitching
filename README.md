@@ -1,7 +1,8 @@
 # Phase I Instructions
 The path to the folder of images can be provided as mentioned below.
-```python Wrapper.py --Folder /home/naitri/Downloads/YourDirectoryID_p1/Phase1/Data/Train/Set1
-```
+
+``python Wrapper.py --Folder /home/naitri/Downloads/YourDirectoryID_p1/Phase1/Data/Train/Set1
+``
 
 # Phase II Instructions
 
