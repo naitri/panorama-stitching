@@ -4,10 +4,10 @@ This repository implements two approaches for panorama image stitching. The firs
 ## Phase I Instructions
 
 
-Input:
+
 <img src="Phase1/Data/Train/CustomSet1/1.jpg"   align="center" alt="Original" width="200"/> <img src="Phase1/Data/Train/CustomSet1/2.jpg"  align="center" alt="Undistorted" width="200"/> <img src="Phase1/Data/Train/CustomSet1/3.jpg"  align="center" alt="Undistorted" width="200"/>
-Output:
-<img src="Phase1/results/customset1/mypano.png" align="center" alt="Pano" width="400"/>
+
+<img src="Phase1/results/customset1/mypano.png" align="center" alt="Pano" width="500"/>
 
 The path to the folder of images can be provided as mentioned below.
 ``python Wrapper.py --Folder $PATH_TO_DATA
